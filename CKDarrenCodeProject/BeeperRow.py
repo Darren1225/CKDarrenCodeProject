@@ -36,3 +36,7 @@ def main():
 
 if __name__ == '__main__':
     execute_karel_task(main)
+    git rm -r --cached .
+git add .
+git commit
+git push  -u origin master
