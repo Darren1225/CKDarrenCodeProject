@@ -36,17 +36,5 @@ def put_99():
 
 
 
-
-
-
-
-
-
-
-
-
-
-####### DO NOT EDIT CODE BELOW THIS LINE ########
-
 if __name__ == '__main__':
     execute_karel_task(main)
