@@ -1,6 +1,6 @@
 # CKDarrenCodeProject
 Hellp there!\
-This repository holds my programming projects done during the period of Sself-learning Stanford Python Lecture.
+This repository holds my programming projects done during the period of self-learning Stanford Python Lecture.
 
 Watch my *[DEMO VIDEO!].(https://drive.google.com/drive/folders/1L57nDdBzPEgt4HuFVzHBI2P6MwEcByBc?usp=sharing)
 
